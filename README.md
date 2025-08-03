@@ -1,6 +1,6 @@
 # Jumlah Show JKT48
 Update: Minggu, 3 Agt 2025  
-© X Jehaes_
+© #JumlahShowJKT48 by @jehaes_ on X
 
 | No | Nama member | Jumlah show | Penambahan |
 |----|-------------|-------------|------------|
