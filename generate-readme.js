@@ -23,7 +23,7 @@ const tableRows = dataLines.map((line, index) => {
 }).filter(Boolean);
 
 const markdownTable = `# Jumlah Show JKT48
-Update: ${tanggalFormat}
+Update: ${tanggalFormat}  
 © X Jehaes_
 
 | No | Nama member | Jumlah show | Penambahan |
