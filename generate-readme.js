@@ -24,7 +24,7 @@ const tableRows = dataLines.map((line, index) => {
 
 const markdownTable = `# Jumlah Show JKT48
 Update: ${tanggalFormat}  
-© X Jehaes_
+© #JumlahShowJKT48 by @jehaes_ on X
 
 | No | Nama member | Jumlah show | Penambahan |
 |----|-------------|-------------|------------|
