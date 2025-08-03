@@ -26,8 +26,8 @@ const markdownTable = `# Jumlah Show JKT48
 Update: ${tanggalFormat}  
 © #JumlahShowJKT48 by @jehaes_ on X
 
-| No | Nama member | Jumlah show | Penambahan |
-|----|-------------|-------------|------------|
+| No | Member | Jumlah show | Penambahan |
+|----|--------|-------------|------------|
 ${tableRows.join("\n")}
 `;
 
