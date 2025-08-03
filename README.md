@@ -1,5 +1,5 @@
 # Jumlah Show JKT48
-Update: Minggu, 3 Agt 2025
+Update: Minggu, 3 Agt 2025  
 © X Jehaes_
 
 | No | Nama member | Jumlah show | Penambahan |
