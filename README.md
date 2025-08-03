@@ -2,8 +2,8 @@
 Update: Minggu, 3 Agt 2025  
 © #JumlahShowJKT48 by @jehaes_ on X
 
-| No | Nama member | Jumlah show | Penambahan |
-|----|-------------|-------------|------------|
+| No | Member | Jumlah show | Penambahan |
+|----|--------|-------------|------------|
 | 1 | Feni | 740 | +1 |
 | 2 | Gracia | 732 | +2 |
 | 3 | Jessi | 419 | +2 |
