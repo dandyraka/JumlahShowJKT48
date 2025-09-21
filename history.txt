@@ -1,58 +1,57 @@
-#JumlahShowJKT48 2025-09-07
+#JumlahShowJKT48 2025-09-20
 
 740 Feni
-735 Gracia (+1)
-422 Jessi
-383 Muthe (+1)
-354 Eli (+2)
-353 Freya
-352 Olla (+1)
-346 Lulu (+2)
-328 Christy (+1)
-324 Oniel (+1)
-319 Gita (+1)
-312 Fiony
-271 Kathrina
-268 Marsha
-225 Indah (+1)
-198 Indira (+2)
-176 Lia (+1)
+735 Gracia
+425 Jessi (+2)
+385 Muthe (+1)
+355 Eli
+355 Freya (+1)
+354 Olla (+1)
+346 Lulu
+329 Christy (+1)
+325 Oniel (+1)
+320 Gita (+1)
+316 Fiony (+2)
+273 Kathrina (+2)
+270 Marsha (+1)
+225 Indah
+179 Lia (+1)
 163 Ella
-160 Raisha (+1)
-147 Lyn (+1)
-142 Danella (+1)
-138 Cathy (+2)
-135 Michie (+1)
-133 Gracie (+2)
-130 Chelsea (+2)
-128 Daisy (+1)
-128 Greesel (+2)
-120 Cynthia
-119 Gendis (+1)
-112 Anindya (+2)
-110 Alya (+1)
-90 Elin
-86 Oline
-84 Amanda (+1)
-80 Trisha
-79 Lily
-75 Kimmy
-72 Erine
-70 Nayla
-67 Fritzy
-67 Nachia
-64 Nala
-63 Aralie
-57 Levi
-56 Delynn
-53 Lana
-53 Ribka
-28 Intan
-24 Ekin
-22 Auwia
-19 Giaa
-17 Virgi
-17 Mikaela
-14 Rilly
-13 Maira
-13 Jemima
+162 Raisha
+149 Lyn (+1)
+145 Danella (+2)
+141 Cathy (+2)
+137 Michie (+1)
+135 Gracie (+2)
+133 Chelsea (+2)
+132 Daisy (+2)
+130 Greesel (+1)
+122 Gendis (+1)
+121 Cynthia
+115 Anindya (+1)
+110 Alya
+91 Elin (+1)
+89 Oline (+1)
+85 Amanda
+82 Trisha (+1)
+82 Lily (+2)
+79 Kimmy (+2)
+76 Erine (+2)
+72 Nayla (+1)
+69 Fritzy (+1)
+69 Nachia (+1)
+67 Nala (+1)
+64 Aralie (+1)
+59 Levi (+1)
+58 Delynn (+1)
+55 Ribka (+1)
+54 Lana (+1)
+31 Intan (+2)
+26 Ekin (+1)
+26 Auwia (+2)
+20 Giaa (+1)
+19 Virgi (+1)
+19 Mikaela (+1)
+15 Rilly
+15 Maira (+1)
+14 Jemima
